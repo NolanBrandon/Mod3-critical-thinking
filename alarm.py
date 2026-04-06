@@ -1,4 +1,3 @@
-# Part 2: Alarm Clock
 
 current_time = int(input("Enter current time (0-23): "))
 wait_time = int(input("Enter hours to wait: "))
